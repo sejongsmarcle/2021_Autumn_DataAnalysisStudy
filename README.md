@@ -32,9 +32,7 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |0회차|21.09.09|x|OT, 소개|x|x|
 |1회차|21.09.13 ~ 21.09.24 (발표:9/24)|1팀|1장 서울시 구별 CCTV 현황 분석|[1회차 자료](https://github.com/sejongsmarcle/2021_Autumn_DataAnalysisStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/1%ED%9A%8C%EC%B0%A8)|[유튜브](https://www.youtube.com/watch?v=yix21yin3xQ)|
-|2회차|21.09.27 ~ 21.10.08 (발표:10/08)|2팀|2장 서울시 범죄 현황 분석||[2회차 자료]
-(https://github.com/hykang0626/2021_Autumn_DataAnalysisStudy/tree/main/2%ED%9A%8C%EC%B0%A8)|[유튜브]
-(https://www.youtube.com/watch?v=K9A5tMduEpQ)
+|2회차|21.09.27 ~ 21.10.08 (발표:10/08)|2팀|2장 서울시 범죄 현황 분석||[2회차 자료](https://github.com/hykang0626/2021_Autumn_DataAnalysisStudy/tree/main/2%ED%9A%8C%EC%B0%A8)|[유튜브](https://www.youtube.com/watch?v=K9A5tMduEpQ)
 |3회차|21.10.25 ~ 21.11.05 (발표:11/05)|3팀|3장 시카고 샌드위치 맛집 분석||
 |4회차|21.11.08 ~ 21.11.26 (발표:11/26)|4팀|4장 셀프 주유소는 정말 저렴할까||
 |5회차|21.11.29 ~ 21.12.10  (발표:12/10)|1,2,3,4팀|5회차, 팀별 데이터 분석 프로젝트||
