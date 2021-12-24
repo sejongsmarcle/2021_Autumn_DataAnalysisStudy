@@ -35,7 +35,7 @@
 |2회차|21.09.27 ~ 21.10.08 (발표:10/08)|2팀|2장 서울시 범죄 현황 분석|[2회차 자료](https://github.com/hykang0626/2021_Autumn_DataAnalysisStudy/tree/main/2%ED%9A%8C%EC%B0%A8)|[유튜브](https://www.youtube.com/watch?v=K9A5tMduEpQ)
 |3회차|21.10.25 ~ 21.11.05 (발표:11/05)|3팀|3장 시카고 샌드위치 맛집 분석|[3회차 자료](https://github.com/sejongsmarcle/2021_Autumn_DataAnalysisStudy/blob/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/3%ED%9A%8C%EC%B0%A8/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D%20%EC%8A%A4%ED%84%B0%EB%94%94%203%ED%8C%80.pdf)|[유튜브](https://www.youtube.com/watch?v=OosgPsAGRzg)
 |4회차|21.11.08 ~ 21.11.26 (발표:11/26)|4팀|4장 셀프 주유소는 정말 저렴할까|[4회차 자료](https://docs.google.com/presentation/d/1LmwyJ4YvHPll8E7HRI4rHvjui-3fotLJE4IEJCZDZy4/edit#slide=id.g10482827357_7_0)|[유튜브](https://youtu.be/CPiShn_fx-Q)
-|5회차|21.11.29 ~ 21.12.10  (발표:12/10)|1,2,3,4팀|5회차, 팀별 데이터 분석 프로젝트||
+|5회차|21.11.29 ~ 21.12.10  (발표:12/10)|1,2,3,4팀|5회차, 팀별 데이터 분석 프로젝트|[5회차 자료](https://github.com/sejongsmarcle/2021_Autumn_DataAnalysisStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/5%ED%9A%8C%EC%B0%A8)|[유튜브](https://www.youtube.com/watch?v=GIMlsSObXfE)
 
 
 ## 스터디 구성원
